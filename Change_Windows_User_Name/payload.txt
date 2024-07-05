@@ -15,7 +15,7 @@ REM Note:
 REM     - Payload tested on Windows 11 Eng 
 
 REM Set the new name that you want to set
-DEFINE NEW_NAME example
+DEFINE NEW_NAME Tacoin
 
 DELAY 2000
 GUI R

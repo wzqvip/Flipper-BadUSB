@@ -12,7 +12,7 @@ REM Requirements:
 REM     - Nothing (i know it's absurd)
 
 REM You must define the new Windows user password
-DEFINE NEW_PASSWORD example
+DEFINE NEW_PASSWORD password
 
 DELAY 1000
 GUI x
