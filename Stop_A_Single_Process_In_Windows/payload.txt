@@ -15,7 +15,7 @@ REM     - Nothing
 
 
 REM Write the name of the process that you want to stop 
-DEFINE PROCESS_NAME example
+DEFINE PROCESS_NAME Genshin.exe
 
 
 REM Open Task Manager

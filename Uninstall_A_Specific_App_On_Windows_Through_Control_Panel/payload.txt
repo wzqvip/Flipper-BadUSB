@@ -15,7 +15,7 @@ REM Note:
 REM     - Payload tested on Windows 11 Eng 
 
 REM Set the exact name of the application as it appears within the control panel. Do not assume that just because an application is known by a certain name then it will have exactly that name, e.g. `Firefox` shows up again as `Mozilla Firefox (x64 en)`
-DEFINE APP_NAME example
+DEFINE APP_NAME Genshin
 
 
 REM Open Windows research

